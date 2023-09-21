@@ -33,7 +33,7 @@ int main()
 {
     printf("from main: %d\n", test_variable);
 
-    myFunction(1);
+    myFunction();
 
     return 0;
 }
